@@ -1,19 +1,19 @@
-# Dependencies
-node_modules/
+# # Dependencies
+# node_modules/
 
-# Environment variables
-.env
+# # Environment variables
+# .env
 
-# Build files
-dist/
-build/
+# # Build files
+# dist/
+# build/
 
-# Logs
-*.log
+# # Logs
+# *.log
 
-# OS files
-.DS_Store
-Thumbs.db
+# # OS files
+# .DS_Store
+# Thumbs.db
 
-# VS Code
-.vscode/
+# # VS Code
+# .vscode/
